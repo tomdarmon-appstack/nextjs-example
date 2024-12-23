@@ -1,4 +1,4 @@
-# Task Manager Exercise 🗂️
+# Github grid
 
 Reproduce the famous github grid.
 
